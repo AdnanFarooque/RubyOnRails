@@ -21,6 +21,6 @@ Things you may want to cover:
 
 - Deployment instructions
 
-- ...
-  Heroku Name rubyonrailsaf
-  website https://rubyonrailsaf.herokuapp.com/
+- Heroku Name rubyonrailsaf
+
+- website https://rubyonrailsaf.herokuapp.com/
